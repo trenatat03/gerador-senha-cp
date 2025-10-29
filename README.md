@@ -3,8 +3,7 @@
 Um aplicativo Flutter integrado ao Firebase Authentication e Cloud Firestore que permite o login do usuário, gera senhas e exibe uma lista com as senhas geradas pelo usuário autenticado.
 
 ## 👥 Integrantes 
-- Carolina Teixeira Coelho rm97643
-- Daniel Marin Palma rm551738
+- Renata Almeida Lima
 
 ## 🎨 Design
 
